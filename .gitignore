@@ -1,0 +1,8 @@
+# Virtual environment (each machine builds its own)
+.venv/
+
+# Python cache files
+__pycache__/
+
+# Secrets such as API keys. Never commit these.
+.env
